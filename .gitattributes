@@ -1,0 +1,33 @@
+* text=auto eol=lf
+*.7z binary
+*.bat text eol=lf
+*.bin binary
+*.bsl text eol=lf
+*.cf binary
+*.cfe binary
+*.cmd text eol=lf
+*.epf binary
+*.erf binary
+*.exe binary
+*.feature text eol=lf
+*.groovy text eol=lf
+*.gz binary
+*.htm text eol=lf
+*.html text eol=lf
+*.ico binary
+*.jpeg binary
+*.jpg binary
+*.json text eol=lf
+*.md text eol=lf
+*.os text eol=lf
+*.png binary
+*.ps1 text eol=lf
+*.sh text eol=lf
+*.tar binary
+*.tgz binary
+*.xml text eol=lf
+*.yml text eol=lf
+*.zip binary
+Form.bin binary
+ParentConfigurations.bin binary
+*renames.txt text eol=lf
